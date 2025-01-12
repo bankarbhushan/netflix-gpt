@@ -2,15 +2,18 @@
 
 - create react app
 - configure the tailwindcss
+- header
+- login from
+- sign Up
 
 # features
 
-## Login/ SignUp
+- Login/ SignUp
 
-- Sign Up / Log in form
-- Redirect to the log in page
+  - Sign Up / Log in form
+  - Redirect to the log in page
 
-## Browse Page (Only for the Login User)
+-Browse Page (Only for the Login User)
 
 - header
 - main Movie
@@ -19,7 +22,7 @@
   - movie suggestions
     - move list \* N
 
-## Netflix-GPT page
+-Netflix-GPT page
 
 - search bar
 - Movie suggestions

@@ -1,11 +1,12 @@
 import "./index.css";
 import React from "react";
+import Body from "./Components/Body";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold bg-green-500 ">hii</h1>
-    </div>
+    <>
+      <Body />
+    </>
   );
 }
 
